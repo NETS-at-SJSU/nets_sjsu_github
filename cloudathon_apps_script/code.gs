@@ -1,7 +1,7 @@
 // ─────────────────────────────────────────────────────────────
 // CLOUDATHON TEAM ASSIGNMENT
 // ─────────────────────────────────────────────────────────────
-// Author: Linh (Maria) Truong <email@hidden>
+// Author: Linh (Maria) Truong <linh.truong@sjsu.edu>
 // Contributors: Yipeng Liu <yipeng.liu@sjsu.edu>
 //               Rishik R. Dammannagari <email@hidden>
 // Date Created: 04/09/2026
